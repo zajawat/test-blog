@@ -2,4 +2,4 @@
 
 its like a website yay
 
-go here: [this page]('./folder/page.md')
+go here: [this page](./folder/page.md)
